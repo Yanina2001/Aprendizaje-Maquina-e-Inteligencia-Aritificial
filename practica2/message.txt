@@ -1,0 +1,108 @@
+
+(cursoia) C:\Users\julia\cursoia>python prac2_3.py
+Se hizo el numero 1 de regresion lineal.
+Regresion lineal
+ mse: 7031786838.23678 r2: 0.4727677794339157
+Se hizo el numero 2 de regresion lineal.
+Regresion lineal
+ mse: 7014476164.449857 r2: 0.47203441498201293
+Se hizo el numero 3 de regresion lineal.
+Regresion lineal
+ mse: 6987000646.812803 r2: 0.4801344492037818
+Se hizo el numero 4 de regresion lineal.
+Regresion lineal
+ mse: 7037062004.986583 r2: 0.4742548493363453
+Se hizo el numero 5 de regresion lineal.
+Regresion lineal
+ mse: 7049885536.575739 r2: 0.4692618204539085
+Se hizo el numero 6 de regresion lineal.
+Regresion lineal
+ mse: 7040671111.288229 r2: 0.4730703308521482
+Se hizo el numero 7 de regresion lineal.
+Regresion lineal
+ mse: 7080353752.580964 r2: 0.4698700819176158
+Se hizo el numero 8 de regresion lineal.
+Regresion lineal
+ mse: 7020807050.726171 r2: 0.47137921854434817
+Se hizo el numero 9 de regresion lineal.
+Regresion lineal
+ mse: 6996942934.170295 r2: 0.47191008408527224
+Se hizo el numero 10 de regresion lineal.
+Regresion lineal
+ mse: 7026948365.151733 r2: 0.47345290886345304
+Se hizo el numero 1 de regresion polinomial 2.
+Regresión polinomial estocástico grado 2
+mse: 6987418982.997601 r2: 0.4760944108261398
+Se hizo el numero 2 de regresion polinomial 2.
+Regresión polinomial estocástico grado 2
+mse: 6966384881.303674 r2: 0.4756541496343627
+Se hizo el numero 3 de regresion polinomial 2.
+Regresión polinomial estocástico grado 2
+mse: 6936122726.522814 r2: 0.48392000460758533
+Se hizo el numero 4 de regresion polinomial 2.
+Regresión polinomial estocástico grado 2
+mse: 6986761927.108623 r2: 0.47801281281650254
+Se hizo el numero 5 de regresion polinomial 2.
+Regresión polinomial estocástico grado 2
+mse: 7005685123.94793 r2: 0.4725893704419988
+Se hizo el numero 6 de regresion polinomial 2.
+Regresión polinomial estocástico grado 2
+mse: 7006291761.451726 r2: 0.4756433099259503
+Se hizo el numero 7 de regresion polinomial 2.
+Regresión polinomial estocástico grado 2
+mse: 7028697151.110902 r2: 0.47373778554693746
+Se hizo el numero 8 de regresion polinomial 2.
+Regresión polinomial estocástico grado 2
+mse: 6976329220.77921 r2: 0.47472810778943597
+Se hizo el numero 9 de regresion polinomial 2.
+Regresión polinomial estocástico grado 2
+mse: 6952196490.45489 r2: 0.47528729409276715
+Se hizo el numero 10 de regresion polinomial 2.
+Regresión polinomial estocástico grado 2
+mse: 6980136845.14951 r2: 0.47696061496971787
+Se hizo el numero 1 de regresion polinomial 3.
+Regresión polinomial estocástico grado 3
+mse: 9206011455.072838 r2: 0.3097478672672723
+Se hizo el numero 2 de regresion polinomial 3.
+Regresión polinomial estocástico grado 3
+mse: 9146560165.773924 r2: 0.3115567184760989
+Se hizo el numero 3 de regresion polinomial 3.
+Regresión polinomial estocástico grado 3
+mse: 9114074175.827286 r2: 0.3218702228723316
+Se hizo el numero 4 de regresion polinomial 3.
+Regresión polinomial estocástico grado 3
+mse: 9187743746.305689 r2: 0.3135755068325925
+Se hizo el numero 5 de regresion polinomial 3.
+Regresión polinomial estocástico grado 3
+mse: 9234017582.957073 r2: 0.30483329744163923
+Se hizo el numero 6 de regresion polinomial 3.
+Regresión polinomial estocástico grado 3
+mse: 9186516100.912891 r2: 0.31247351095345355
+Se hizo el numero 7 de regresion polinomial 3.
+Regresión polinomial estocástico grado 3
+mse: 9273188884.348219 r2: 0.30568513447085965
+Se hizo el numero 8 de regresion polinomial 3.
+Regresión polinomial estocástico grado 3
+mse: 9154694291.329594 r2: 0.3107114872542034
+Se hizo el numero 9 de regresion polinomial 3.
+Regresión polinomial estocástico grado 3
+mse: 9148562155.051043 r2: 0.30951796167900836
+Se hizo el numero 10 de regresion polinomial 3.
+Regresión polinomial estocástico grado 3
+mse: 9214763613.972343 r2: 0.3095143546933885
+*************************************************************
+Lista del mse de regresion lineal:  [7031786838.23678, 7014476164.449857, 6987000646.812803, 7037062004.986583, 7049885536.575739, 7040671111.288229, 7080353752.580964, 7020807050.726171, 6996942934.170295, 7026948365.151733]
+Lista del r2 de regresion lineal:  [0.4727677794339157, 0.47203441498201293, 0.4801344492037818, 0.4742548493363453, 0.4692618204539085, 0.4730703308521482, 0.4698700819176158, 0.47137921854434817, 0.47191008408527224, 0.47345290886345304]
+Promedio de los mse de regresion lineal:  7028593440.497915
+Promedio de los r2 de regresion lineal:  0.47281359376728016
+*************************************************************
+Lista del mse de regresion polinomial 2:  [6987418982.997601, 6966384881.303674, 6936122726.522814, 6986761927.108623, 7005685123.94793, 7006291761.451726, 7028697151.110902, 6976329220.77921, 6952196490.45489, 6980136845.14951]
+Lista del r2 de regresion polinomial 2:  [0.4760944108261398, 0.4756541496343627, 0.48392000460758533, 0.47801281281650254, 0.4725893704419988, 0.4756433099259503, 0.47373778554693746, 0.47472810778943597, 0.47528729409276715, 0.47696061496971787]
+Promedio de los mse de regresion polinomial 2:  6982602511.082688
+Promedio de los r2 de regresion polinomial 2:  0.4762627860651398
+*************************************************************
+Lista del mse de regresion polinomial 3:  [9206011455.072838, 9146560165.773924, 9114074175.827286, 9187743746.305689, 9234017582.957073, 9186516100.912891, 9273188884.348219, 9154694291.329594, 9148562155.051043, 9214763613.972343]
+Lista del r2 de regresion polinomial 3:  [0.3097478672672723, 0.3115567184760989, 0.3218702228723316, 0.3135755068325925, 0.30483329744163923, 0.31247351095345355, 0.30568513447085965, 0.3107114872542034, 0.30951796167900836, 0.3095143546933885]
+Promedio de los mse de regresion polinomial 3:  9186613217.15509
+Promedio de los r2 de regresion polinomial 3:  0.3109486061940848
+*************************************************************
